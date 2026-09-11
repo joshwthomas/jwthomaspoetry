@@ -1,11 +1,10 @@
 @use "./variables.scss" as *;
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
 /* ---------------------------------------------------------
    Notebook-Style Digital Garden Theme
    Centered layout • Notebook spine • Patrick Hand font
 ---------------------------------------------------------*/
-
-/* Import handwritten font */
-@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 
 /* Page background: soft paper */
 body {
