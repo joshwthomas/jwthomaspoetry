@@ -1,6 +1,4 @@
----
-title: ""
----
+
 ![[IMG_5379(1).png]]
 # J.W. Thomas's Digital Garden for Poetry
 This digital garden is a living notebook of ideas, notes, experiments, and half‑formed poems.  
