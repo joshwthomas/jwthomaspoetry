@@ -5,7 +5,7 @@ last edit: 2026-09-11
 description: reviews of published poetry.
 tags:
   - poetry_reveiws
-MOC: "[[MOC - Poems]]"
+MOC: "[[J.W. Thomas Poetry Public/MOC - Poems|MOC - Poems]]"
 ---
 
 # No Tomb of His Own: Legacies of the Hollywood Buck

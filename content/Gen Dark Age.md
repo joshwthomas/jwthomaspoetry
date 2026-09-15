@@ -8,7 +8,7 @@ last edit: 2026-09-14
 description:
 tags:
   - Vignettes
-MOC: "[[MOC - Poems]]"
+MOC: "[[J.W. Thomas Poetry Public/MOC - Poems|MOC - Poems]]"
 ---
 You don't know we're sliding towards 
 another Dark Age, he said.

@@ -36,3 +36,4 @@ Inebriates some truths
 Mom knew that the drug was worth the taking
 
 ---
+Version 1[[J.W. Thomas Poetry Public/River Poem No. 1|River Poem No. 1]]
