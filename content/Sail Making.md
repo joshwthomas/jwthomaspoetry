@@ -10,7 +10,7 @@ description: |-
   On teak, mahogany, and oak
 tags:
   - observation
-MOC: "[[MOC - Poems]]"
+MOC: "[[MOC-Poems]]"
 ---
 The time it takes to make the cloth
 To twist the rope, and press the oakum in

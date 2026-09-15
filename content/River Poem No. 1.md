@@ -11,7 +11,7 @@ description: |-
 tags:
   - observation
   - rivers
-MOC: "[[MOC - Poems]]"
+MOC: "[[MOC-Poems]]"
 ---
 
 Reddish quiet sand between the stones

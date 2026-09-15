@@ -8,7 +8,7 @@ last edit: 2026-08-11
 description: Then it's crawling between the netting
 tags:
   - observation
-MOC: "[[J.W. Thomas Poetry Public/MOC - Poems|MOC - Poems]]"
+MOC: "[[MOC-Poems]]"
 ---
 
 Something crawls through the long grass 
