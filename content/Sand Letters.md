@@ -11,7 +11,7 @@ description: |-
 tags:
   - observation
   - rivers
-MOC: "[[MOC-Poems]]"
+MOC: "[MOC-Poems](MOC-Poems.md)"
 ---
 
 Reddish quiet sand between the stones
@@ -42,4 +42,4 @@ until i float again still too close to read
 
 
 ---
-Version 1 - [[River Poem No. 1]]
+Version 1 - [River Poem No. 1](River%20Poem%20No.%201.md)

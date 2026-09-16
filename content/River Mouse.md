@@ -8,7 +8,7 @@ last edit: 2026-08-11
 description: Then it's crawling between the netting
 tags:
   - observation
-MOC: "[[MOC-Poems]]"
+MOC: "[MOC-Poems](MOC-Poems.md)"
 ---
 
 Something crawls through the long grass 

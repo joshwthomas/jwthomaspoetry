@@ -10,7 +10,7 @@ description: |-
   On teak, mahogany, and oak
 tags:
   - observation
-MOC: "[[MOC-Poems]]"
+MOC: "[MOC-Poems](MOC-Poems.md)"
 ---
 The time it takes to make the cloth
 To twist the rope, and press the oakum in
@@ -36,4 +36,4 @@ Inebriates some truths
 Mom knew that the drug was worth the taking
 
 ---
-Version 1[[J.W. Thomas Poetry Public/River Poem No. 1|River Poem No. 1]]
+Version 1[River Poem No. 1](J.W.%20Thomas%20Poetry%20Public/River%20Poem%20No.%201)
