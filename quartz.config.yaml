@@ -18,8 +18,15 @@ configuration:
     cdnCaching: true
     typography:
       title: "Martel Sans"
+      head: "Martel Sans"
       header: "Martel Sans"
+      beforeBody: "Martel"
       body: "Martel"
+      pageBody: "Martel"
+      left: "Martel"
+      right: "Martel"
+      center: "Martel"
+      footer: "Martel"
       code: "IBM Plex Mono"
     colors:
       lightMode:
