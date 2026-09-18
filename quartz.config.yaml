@@ -19,6 +19,7 @@ configuration:
     typography:
       title: "Martel Sans"
       head: "Martel Sans"
+      h1: "Martel Sans"
       header: "Martel Sans"
       beforeBody: "Martel"
       body: "Martel"
