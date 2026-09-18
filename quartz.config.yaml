@@ -112,6 +112,13 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      useThemeFonts: true
+      fontOrigin: googleFonts
+      title: "Martel Sans"
+      header: "Martel Sans"
+      body: "Martel"
+    code: "IBM Plex Mono"
   - source: "@quartz-themes/core"
     enabled: true
     options:
