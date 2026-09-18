@@ -17,18 +17,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      title: "Martel Sans"
-      head: "Martel Sans"
-      h1: "Martel Sans"
-      header: "Martel Sans"
-      beforeBody: "Martel"
-      body: "Martel"
-      pageBody: "Martel"
-      left: "Martel"
-      right: "Martel"
-      center: "Martel"
-      footer: "Martel"
-      code: "IBM Plex Mono"
+      header: Schibsted Grotesk
+      body: Source Sans Pro
+      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -120,14 +111,6 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
-    options:
-      useThemeFonts: true
-      fontOrigin: googleFonts
-      title: "Martel Sans"
-      h1: "Martel Sans"
-      header: "Martel Sans"
-      body: "Martel"
-    code: "IBM Plex Mono"
   - source: "@quartz-themes/core"
     enabled: true
     options:
