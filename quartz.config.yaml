@@ -124,6 +124,7 @@ plugins:
       useThemeFonts: true
       fontOrigin: googleFonts
       title: "Martel Sans"
+      h1: "Martel Sans"
       header: "Martel Sans"
       body: "Martel"
     code: "IBM Plex Mono"
