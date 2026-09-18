@@ -1,13 +1,21 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
+<<<<<<< HEAD
   pageTitle: J.W. Thomas Poetry
+=======
+  pageTitle: Quartz 5
+>>>>>>> 3dff48b5df6d84c9544a5ae19c8f2cbb01dc44e5
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
+<<<<<<< HEAD
   baseUrl: joshwthomas.github.io/jwthomaspoetry
+=======
+  baseUrl: quartz.jzhao.xyz
+>>>>>>> 3dff48b5df6d84c9544a5ae19c8f2cbb01dc44e5
   ignorePatterns:
     - private
     - templates
