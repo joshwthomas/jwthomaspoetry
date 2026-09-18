@@ -17,9 +17,10 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Martel Sans
-      body: Martel
-      code: IBM Plex Mono
+      title: "Martel Sans"
+      header: "Martel Sans"
+      body: "Martel"
+      code: "IBM Plex Mono"
     colors:
       lightMode:
         light: "#faf8f8"
@@ -111,11 +112,6 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
-    options:
-    fontOrigin: googleFonts
-    body: Martel
-    header: Martel Sans
-    code: JetBrains Mono
   - source: "@quartz-themes/core"
     enabled: true
     options:
