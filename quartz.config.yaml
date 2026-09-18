@@ -111,6 +111,11 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+    fontOrigin: googleFonts
+    body: Martel
+    header: Martel Sans
+    code: JetBrains Mono
   - source: "@quartz-themes/core"
     enabled: true
     options:
