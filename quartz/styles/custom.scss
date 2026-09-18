@@ -1,6 +1,6 @@
 @use "./variables.scss" as *;
-<<<<<<< HEAD
-=======
+@import url('https://googleapis.com');
 
-// put your custom CSS here!
->>>>>>> 3dff48b5df6d84c9544a5ae19c8f2cbb01dc44e5
+h1.quartz.obsidian {
+    font-family: 'Martel Sans', sans-serif !important;
+}
