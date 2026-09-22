@@ -1,24 +1,14 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-<<<<<<< HEAD
   pageTitle: J.W. Thomas Poetry
   pageTitleSuffix: ""
   enableSPA: false
-=======
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
-  enableSPA: true
->>>>>>> dfb214b (Updating files)
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-<<<<<<< HEAD
   baseUrl: "joshwthomas.github.io/jwthomaspoetry"
 
-=======
-  baseUrl: joshwthomas.github.io/jwthomaspoetry
->>>>>>> dfb214b (Updating files)
   ignorePatterns:
     - private
     - templates
@@ -27,13 +17,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-<<<<<<< HEAD
       header: Martel
       body: Martel Sans
-=======
-      header: Schibsted Grotesk
-      body: Source Sans Pro
->>>>>>> dfb214b (Updating files)
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -57,11 +42,7 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
-<<<<<<< HEAD
   - source: "@quartz-community/created-modified-date"
-=======
-  - source: github:quartz-community/created-modified-date
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       defaultDateType: modified
@@ -70,11 +51,7 @@ plugins:
         - git
         - filesystem
     order: 10
-<<<<<<< HEAD
   - source: "@quartz-community/syntax-highlighting"
-=======
-  - source: github:quartz-community/syntax-highlighting
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       theme:
@@ -82,11 +59,7 @@ plugins:
         dark: github-dark
       keepBackground: false
     order: 20
-<<<<<<< HEAD
   - source: "@quartz-community/obsidian-flavored-markdown"
-=======
-  - source: github:quartz-community/obsidian-flavored-markdown
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       comments: true
@@ -102,7 +75,6 @@ plugins:
       enableVideoEmbed: true
       enableCheckbox: true
     order: 30
-<<<<<<< HEAD
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
     order: 40
@@ -113,64 +85,18 @@ plugins:
       position: right
       priority: 30
   - source: "@quartz-community/crawl-links"
-=======
-  - source: github:quartz-community/github-flavored-markdown
-    enabled: true
-    order: 40
-  - source: github:quartz-community/table-of-contents
-    enabled: true
-    order: 50
-  - source: github:quartz-community/crawl-links
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       markdownLinkResolution: shortest
     order: 60
-<<<<<<< HEAD
   - source: "@quartz-community/description"
     enabled: true
     order: 70
   - source: "@quartz-community/latex"
-=======
-  - source: github:quartz-community/description
-    enabled: true
-    order: 70
-  - source: github:quartz-community/latex
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       renderEngine: katex
     order: 80
-<<<<<<< HEAD
-  - source: "@quartz-community/citations"
-    enabled: false
-    order: 85
-  - source: "@quartz-community/hard-line-breaks"
-    enabled: true
-    order: 90
-  - source: "@quartz-community/ox-hugo"
-    enabled: false
-    order: 91
-  - source: "@quartz-community/roam"
-    enabled: false
-    order: 92
-  - source: "@quartz-community/quartz-fonts"
-    enabled: false
-  - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: default
-      mode: both
-  - source: "@quartz-community/remove-draft"
-    enabled: true
-  - source: "@quartz-community/explicit-publish"
-    enabled: false
-  - source: "@quartz-community/unlisted-pages"
-    enabled: true
-    options: {}
-    order: 45
-  - source: "@quartz-community/encrypted-pages"
-=======
   - source: github:quartz-community/citations
     enabled: false
     order: 85
@@ -192,37 +118,25 @@ plugins:
     options: {}
     order: 45
   - source: github:quartz-community/encrypted-pages
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       iterations: 600000
       passwordField: password
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
-<<<<<<< HEAD
   - source: "@quartz-community/stacked-pages"
-=======
-  - source: github:quartz-community/stacked-pages
->>>>>>> dfb214b (Updating files)
     enabled: false
     layout:
       position: afterBody
       priority: 50
       display: all
-<<<<<<< HEAD
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"
-=======
-  - source: github:quartz-community/alias-redirects
-    enabled: true
-  - source: github:quartz-community/content-index
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       enableSiteMap: true
       enableRSS: true
-<<<<<<< HEAD
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
@@ -238,41 +152,16 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-=======
-  - source: github:quartz-community/favicon
-    enabled: true
-  - source: github:quartz-community/og-image
-    enabled: true
-  - source: github:quartz-community/cname
-    enabled: true
-  - source: github:quartz-community/canvas-page
-    enabled: true
-  - source: github:quartz-community/content-page
-    enabled: true
-  - source: github:quartz-community/folder-page
-    enabled: true
-  - source: github:quartz-community/tag-page
-    enabled: true
-  - source: github:quartz-community/explorer
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: left
       priority: 50
-<<<<<<< HEAD
   - source: "@quartz-community/graph"
-=======
-  - source: github:quartz-community/graph
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: right
       priority: 10
-<<<<<<< HEAD
   - source: "@quartz-community/search"
-=======
-  - source: github:quartz-community/search
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: left
@@ -280,87 +169,50 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
-<<<<<<< HEAD
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
       position: right
       priority: 50
   - source: "@quartz-community/article-title"
-=======
-  - source: github:quartz-community/backlinks
-    enabled: true
-    layout:
-      position: right
-      priority: 30
-  - source: github:quartz-community/article-title
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: beforeBody
       priority: 10
-<<<<<<< HEAD
   - source: "@quartz-community/content-meta"
-=======
-  - source: github:quartz-community/content-meta
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: beforeBody
       priority: 20
-<<<<<<< HEAD
   - source: "@quartz-community/tag-list"
-=======
-  - source: github:quartz-community/tag-list
->>>>>>> dfb214b (Updating files)
     enabled: false
     layout:
       position: beforeBody
       priority: 30
-<<<<<<< HEAD
   - source: "@quartz-community/page-title"
-=======
-  - source: github:quartz-community/page-title
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: left
       priority: 10
-<<<<<<< HEAD
   - source: "@quartz-community/darkmode"
-=======
-  - source: github:quartz-community/darkmode
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: left
       priority: 30
       group: toolbar
-<<<<<<< HEAD
   - source: "@quartz-community/reader-mode"
-=======
-  - source: github:quartz-community/reader-mode
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: left
       priority: 35
       group: toolbar
-<<<<<<< HEAD
   - source: "@quartz-community/breadcrumbs"
-=======
-  - source: github:quartz-community/breadcrumbs
->>>>>>> dfb214b (Updating files)
     enabled: true
     layout:
       position: beforeBody
       priority: 5
       condition: not-index
-<<<<<<< HEAD
   - source: "@quartz-community/comments"
-=======
-  - source: github:quartz-community/comments
->>>>>>> dfb214b (Updating files)
     enabled: false
     options:
       provider: giscus
@@ -368,28 +220,18 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-<<<<<<< HEAD
   - source: "@quartz-community/footer"
-=======
-  - source: github:quartz-community/footer
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
-<<<<<<< HEAD
     layout:
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
     enabled: false
   - source: "@quartz-community/spacer"
-=======
-  - source: github:quartz-community/recent-notes
-    enabled: false
-  - source: github:quartz-community/spacer
->>>>>>> dfb214b (Updating files)
     enabled: true
     options: {}
     order: 25
@@ -397,19 +239,11 @@ plugins:
       position: left
       priority: 25
       display: mobile-only
-<<<<<<< HEAD
-  - source: "@quartz-community/bases-page"
-    enabled: true
-    options: {}
-    order: 50
-  - source: "@quartz-community/note-properties"
-=======
   - source: github:quartz-community/bases-page
     enabled: true
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
->>>>>>> dfb214b (Updating files)
     enabled: true
     options:
       includeAll: false
@@ -426,7 +260,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-<<<<<<< HEAD
   - source: "@quartz-community/obsidian-plugin-excalidraw"
     enabled: true
     options:
@@ -434,15 +267,6 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-=======
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: default
->>>>>>> dfb214b (Updating files)
 layout:
   groups:
     toolbar:
