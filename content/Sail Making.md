@@ -36,4 +36,3 @@ Inebriates some truths
 Mom knew that the drug was worth the taking
 
 ---
-Version 1 [River Poem No. 1](river-poem-no.-1.md)

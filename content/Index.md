@@ -3,6 +3,7 @@
 This digital garden is a living notebook of ideas, notes, experiments, and half‑formed poems.  
 This space grows over time — some pages are polished, others are seedlings.  
 Everything here is part of an ongoing learning journey.
+Last Update: 2026-09-22
 
 [What is Digital Gardening?](https://jzhao.xyz/posts/networked-thought)
 
