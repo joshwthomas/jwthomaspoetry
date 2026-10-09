@@ -12,7 +12,7 @@ Last Update: 2026-09-22
 ## Seeds
 
 - [Poetry Reviews](Poetry%20Reviews.md) — What I’ve been thinking about recently
-- [[Farm Aid Typewriter Poetry]]
+- [Farm Aid Typewriter Poetry](Farm%20Aid%20Typewriter%20Poetry.md) 
 
 ---
 
