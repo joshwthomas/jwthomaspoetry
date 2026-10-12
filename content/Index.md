@@ -1,13 +1,15 @@
 ---
-title: J.W. Thomas Poetry
+title: ''
 ---
 
 ![IMG_5379(1)](IMG_5379(1).png)
 # J.W. Thomas's Digital Garden for Poetry
-This digital garden is a living notebook of ideas, notes, experiments, and half‑formed poems.  
+This digital garden is a living notebook of ideas, notes, experiments, and half‑formed poems.
+ 
 This space grows over time — some pages are polished, others are seedlings.  
 Everything here is part of an ongoing learning journey.
-Last Update: 2026-09-22
+
+Last Update: 2026-10
 
 [What is Digital Gardening?](https://jzhao.xyz/posts/networked-thought)
 
