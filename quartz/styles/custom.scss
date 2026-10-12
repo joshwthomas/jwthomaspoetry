@@ -1,2 +1,19 @@
 @use "./variables.scss" as *;
 
+body {
+  background: #f6f0df;
+  color: #2b2b2b;
+  font-family: Courier Prime, Courier New, monospace;
+}
+
+h1, h2 {
+  font-weight: normal;
+}
+
+a {
+  text-decoration: underline;
+}
+
+code {
+  border: 1px solid #999;
+}
