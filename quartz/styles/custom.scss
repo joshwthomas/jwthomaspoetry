@@ -1,7 +1,7 @@
 @use "./variables.scss" as *;
 
 body {
-  background: #f6f0df;
+  //background: #f6f0df;
   //color: #2b2b2b;
   font-family: Courier Prime, Courier New, monospace;
 }
@@ -15,10 +15,5 @@ a {
 }
 
 code {
-  border: 1px solid #999;
-}
-
-.content-meta {
-  color: #222 !important;
-  font-weight: 700;
+  border: 1px solid //#999;
 }
